@@ -119,6 +119,7 @@ Not entirely ...
 - Over estimating that "experts" could solve this quickly
 - Never totally "correctly" handled failures (deadlines, goals etc)
 - Still stuck on "prevent failure" vs. "fix failure fast"
+
 ---
 
 # If I started today ...

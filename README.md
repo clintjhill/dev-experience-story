@@ -123,10 +123,10 @@ Not entirely ...
 
 # If I started today ...
 
-#### Step 1: Commit to repeating myself everyday for the forseeable future
-#### Step 2: Negotiate with management for "proof of effectiveness"
-#### Step 3: Silence is never acceptance - get feedback immediately
-#### Step 4: Absolutely and unequivocally know your whole IT org
+- Commit to repeating myself everyday
+- Negotiate with management for "proof of effectiveness"
+- Silence is never acceptance - get feedback immediately
+- Absolutely and unequivocally know your whole IT org
 
 ---
 
@@ -135,9 +135,10 @@ Not entirely ...
 ## Team
 - at a minimum 1 pair
 - don't fall for the "must be senior" fallacy
+- include skeptics (requirement)
 
 ## Activity
-- can be as simple as 1 feature
+- can be a simple feature or a whole product
 - does not have to be user-facing deliverable
 - don't conflate with re-write/refactor
 - provide value - don't "proof of concept"
@@ -145,23 +146,23 @@ Not entirely ...
 ---
 
 # Transparency all the way
-- setup communication immediately (Slack duh?)
+- setup communication immediately
 - educate everyone on the process/progress
-- if outside stakeholders don't understand - forget it
+- if outside stakeholders don't understand - you will lose
 
 ---
 
 # Trust
 
 ### How to build it
-- Deploy everyday - anything visual
+- Deploy everyday - everything visual, anything else
 - Completely and thoroughly communicate complexities
   - Tell how you've removed them
   - Tell how you're encountering them
   - Tell how you're working around them
 
 ### How to use
-- Don't over think feature requests
+- Don't over think feature requests (just start work)
 - Be a part of the feature design, not the "authority"
 - Others have good ideas - listen
 
@@ -193,6 +194,7 @@ If you find yourself distrusting a teammate always start with this question:
 - Ask emotion questions
   - "how do you feel about this"
   - "does this make you nervous"
+  - "are you disappointed about this"
 - Admit your own feelings
 
 ## How to use it
@@ -204,9 +206,9 @@ If you find yourself distrusting a teammate always start with this question:
 
 # Simplicity
 
-- If the user doesn't see it nobody cares
+- If the user doesn't benefit from it nobody cares
 - Architecture only matters after you prove there is a problem
-- Nothing lasts forever so design for "throwawayability"
+- Nothing lasts forever so design for "throw-away-ability"
 
 ---
 
@@ -223,3 +225,4 @@ If you find yourself distrusting a teammate always start with this question:
 - Software is never done
 - Nothing lasts forever
 - The 5 words are hard - but the most rewarding part
+- Culture (DX) does not mean everyone is happy everyday

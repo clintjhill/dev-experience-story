@@ -149,10 +149,21 @@ Not entirely ...
 
 ---
 
+## How do you do it?
+
+- Acknowledge that not all of this is cookie-cutter
+- Developers must have input to change
+
+... but here is an outline ...
+
+---
+
 # First team, first activity
 
 ## Team
 - at a minimum 1 pair
+  - dev/dev or dev/design or dev/product
+  - always a dev
 - don't fall for the "must be senior" fallacy
 - include skeptics (requirement)
 
@@ -168,26 +179,23 @@ Not entirely ...
 - setup communication immediately
 - educate everyone on the process/progress
 - if outside stakeholders don't understand - you will lose
+  - read: proof of effectiveness
 
 ---
 
 # Trust
 
 ### How to build it
-- Deploy everyday - everything visual, anything else
+- Deploy everyday - everything visual and anything else
 - Completely and thoroughly communicate complexities
   - Tell how you've removed them
-  - Tell how you're encountering them
-  - Tell how you're working around them
+  - Tell how you're encountering them or ignoring them
 
 ### How to use
-- Don't over think feature requests (just start work)
-- Be a part of the feature design, not the "authority"
-- Others have good ideas - listen
+- Don't over think requests (just start work)
+- Be a part of the design, not the *authority*
 
-If you find yourself distrusting a teammate always start with this question:
-
-*"What is best for the user?"*
+Resolve trust issues with this question: *"What's best for the user?"*
 
 ---
 
@@ -225,9 +233,11 @@ If you find yourself distrusting a teammate always start with this question:
 
 # Simplicity
 
+### Simple rules about simplicity:
 - If the user doesn't benefit from it nobody cares
-- Architecture only matters after you prove there is a problem
+- Architecture only matters after you *prove* there is a problem
 - Nothing lasts forever so design for "throw-away-ability"
+  - the new TDD!
 
 ---
 
@@ -236,6 +246,7 @@ If you find yourself distrusting a teammate always start with this question:
 - You are human
 - So are your co-workers
 - Get over yourself
+- Let go of past grievances
 
 ---
 
@@ -243,5 +254,5 @@ If you find yourself distrusting a teammate always start with this question:
 
 - Software is never done
 - Nothing lasts forever
+  - Even cultures like this!
 - The 5 words are hard - but the most rewarding part
-- Culture (DX) does not mean everyone is happy everyday

@@ -7,15 +7,12 @@
 In the spring of 2015, CSAA Insurance Group's Digital Services team decided to
 make a dramatic shift in it's culture, processes and development team.
 
-This culture was based on **Developer Experience**.
+This culture would be shaped for **Developer Experience**.
 
 - David Dollar
   - https://www.heavybit.com/library/video/developer-experience-design/
 - Pivotal Labs
   - CSAA Insurance Group mobile application development project
-
-It was our experience building a mobile app with Pivotal that we all decided
-our organization needed to change.
 
 ---
 
@@ -26,9 +23,9 @@ We started pretty much right away and didn't plan any of it up front.
 - Top down approval with immediate action - sort of
   - It was mostly just a Digital thing, the rest of the company was in the dark
   - This caused problems later
-- Started with hiring interns and creating a "Development Experience" team
+- Started with hiring interns and creating a *Development Experience* team
 - Interns allowed us to practice
-- But it was production level projects - not "proof of concept"
+- It was production level projects - not "proof of concept"
 
 ---
 # Something was missing
@@ -63,8 +60,6 @@ We started organizationally, and operationally, but ...
 - Simplest thing that works today
 - Architecture is always JIT
 
-_There were more but these were the winners_
-
 ---
 
 # eXtreme Programming
@@ -92,7 +87,7 @@ _There were more but these were the winners_
 - "show me it works"
 - TDD increases the ability to change later without consequence
 
-** consequences will deflate confidence **
+_ consequences will deflate confidence _
 ---
 
 # Balanced teams
@@ -105,19 +100,35 @@ _There were more but these were the winners_
 ---
 
 # Everyone loved it!
+
 Not entirely ...
+
 - Took a while for devs to believe it
 - Took a while for product/design/management to trust it
-- Daily delivery was harder than anticipated (technically, organizationally)
 - Developers panicked in a bunch of cases unnecessarily
-- We fought over branching/merging the most and it was never the problem
+
+---
+
+# Day to day change is hard
+
+- Daily delivery was harder than anticipated (technically, organizationally)
+- We fought over branching/merging the most and it was *never the problem*
   - Release times led to collisions (monolith problem)
   - Feature work led to collisions (prioritization problem)
+
+---
+
+# Humans are complicated creatures
+
 - Lack of trust that everyone is doing their best
 - Lack of honesty about confidence to do work against expectations
 - Forgetting that this stuff is really hard
+
+---
+
+# Retro? Too busy avoiding mistakes.
 - Over estimating that "experts" could solve this quickly
-- Never totally "correctly" handled failures (deadlines, goals etc)
+- Never totally *correctly* handled failures (deadlines, goals etc)
 - Still stuck on "prevent failure" vs. "fix failure fast"
 
 ---
@@ -125,7 +136,14 @@ Not entirely ...
 # If I started today ...
 
 - Commit to repeating myself everyday
-- Negotiate with management for "proof of effectiveness"
+
+![dhh tweet](dhh-tweet.png)
+
+---
+# Other do-overs
+
+- Negotiate with management for *proof of effectiveness*
+  - How do they measure success?
 - Silence is never acceptance - get feedback immediately
 - Absolutely and unequivocally know your whole IT org
 

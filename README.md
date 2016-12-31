@@ -169,7 +169,7 @@ Not entirely ...
 
 ## Activity
 - can be a simple feature or a whole product
-- does not have to be user-facing deliverable
+- should be user-facing deliverable
 - don't conflate with re-write/refactor
 - provide value - don't "proof of concept"
 

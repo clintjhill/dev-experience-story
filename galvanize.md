@@ -71,7 +71,6 @@ DX would be:
 
 - Most effective way to trust ... yourself
 - Deliverying everyday is a no consequence decision
-- Take the religion out and the effect becomes stronger
 - "show me it works"
 - TDD increases the ability to change later without consequence
 

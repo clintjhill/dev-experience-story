@@ -1,26 +1,40 @@
 # Development Experience (DX)
+
 #### The story outside of the technology
 
 ---
 
 # What exactly?
-DX is a play on the official ISO Standard for UX:
+
+DX is a play on the official ISO Standard for UX (User Experience):
 
 https://www.iso.org/obp/ui/#iso:std:iso:9241:-210:ed-1:v1:en
 
 In short:
->"a person's perceptions and responses that result from the use or anticipated use of a product, system or service"
+
+> "a person's perceptions and responses that result from the use or anticipated use of a product, system or service"
 
 and:
->"includes all the users' emotions, beliefs, preferences, perceptions, physical and psychological responses, behaviors and accomplishments that occur before, during and after use. ..."
 
-DX would be:
->"a developer's perceptions and responses that result from the use or anticipated use of a API, library or tool"
+> "includes all the users' emotions, beliefs, preferences, perceptions, physical and psychological responses, behaviors and accomplishments that occur before, during and after use. ..."
+
+---
+
+# DX is this ...
+
+> "a developer's perceptions and responses that result from the use or anticipated use of a API, library or tool"
+
+and this:
+
+> " ... and interactions with others."
+
+About building software ... are you ever really doing it alone?
 
 ---
 
 # Software is not real
-# Humans are complicated
+
+### Humans are complicated
 
 - We often identify ourselves with our works
 - Show me where the software is?
@@ -33,6 +47,7 @@ DX would be:
 # DX culture
 
 ### 5 words
+
 - Trust
 - Honesty
 - Simplicity
@@ -43,10 +58,18 @@ DX would be:
 
 # DX philosophy
 
-- "I don't know" is first position in every interaction
+- "I don't know" is first position in every interaction (Socratic)
+  - Zen mind
+  - Empty mind
+  - "I don't know anything therefore I'm open to evertyhing"
 - Empathize before educating
 - Simplest thing that works today
 - Architecture is always JIT (Just In Time)
+- Science is easy to find, look for the art
+
+---
+
+# Section on what industry provides
 
 ---
 
@@ -73,36 +96,43 @@ DX would be:
 - Deliverying everyday is a no consequence decision
 - "show me it works"
 - TDD increases the ability to change later without consequence
+  - _consequences will deflate confidence_
 
-*consequences will deflate confidence*
+---
+
+# Section on the "Words"
 
 ---
 
 # Trust
 
 ### How to build it
+
 - Deploy everyday - everything visual and anything else
 - Completely and thoroughly communicate complexities
   - Tell how you've removed them
   - Tell how you're encountering them or ignoring them
 
 ### How to use
-- Don't over think requests (just start work)
-- Be a part of the design, not the *authority*
 
-Resolve trust issues with this question: *"What's best for the user?"*
+- Don't over think requests (just start work)
+- Be a part of the design, not the _authority_
+
+Resolve trust issues with this question: _"What's best for the user?"_
 
 ---
 
 # Empathy
 
 ### How to build it
+
 - Be more honest about your feelings
 - Imagine everyone is your favorite elder
 - Never lie about your confidence to do new things
 - Have faith that others feel the same way
 
 ### How to use it
+
 - Always stop when you feel defensive
   - It's never about you
   - It's never (ever) about using React vs. Angular
@@ -113,6 +143,7 @@ Resolve trust issues with this question: *"What's best for the user?"*
 # Honesty
 
 ### How to build it
+
 - Ask emotion questions
   - "how do you feel about this"
   - "does this make you nervous"
@@ -120,6 +151,7 @@ Resolve trust issues with this question: *"What's best for the user?"*
 - Admit your own feelings
 
 ### How to use it
+
 - Everyday admit to not knowing something (out loud)
 - Allow yesterday's work to be dismissed, deleted and forgotten
 - Allow others to be honest (don't resort to anger, frustration etc)
@@ -129,8 +161,9 @@ Resolve trust issues with this question: *"What's best for the user?"*
 # Simplicity
 
 ### Simple rules about simplicity:
+
 - If the user doesn't benefit from it nobody cares
-- Architecture only matters after you *prove* there is a problem
+- Architecture only matters after you _prove_ there is a problem
 - Nothing lasts forever so design for "throw-away-ability"
   - the new TDD!
 
@@ -150,3 +183,4 @@ Resolve trust issues with this question: *"What's best for the user?"*
 - Software is never done
 - Nothing lasts forever
 - The 5 words are hard - but the most rewarding part
+- Words have no power. Actions make reality.

@@ -1,6 +1,22 @@
-# Development Experience (DX)
+layout: true
 
-#### The story outside of the technology
+.right[
+.logo[![Grateful](grateful-logo.png)]
+]
+
+---
+
+# DX
+
+## Development Experience
+
+### _Software culture and philosophies_
+
+---
+
+class: center, middle
+
+#### _Strong language_
 
 ---
 
@@ -24,23 +40,21 @@ and:
 
 > "a developer's perceptions and responses that result from the use or anticipated use of a API, library or tool"
 
-and this:
-
-> " ... and interactions with others."
+--
 
 About building software ... are you ever really doing it alone?
 
+--
+
+So it's also this:
+
+> " ... and interactions with others."
+
 ---
 
-# Software is not real
+# Culture
 
-### Humans are complicated
-
-- We often identify ourselves with our works
-- Show me where the software is?
-- Photoshop devs "own" the users artwork?
-- Forgetting that this stuff is really hard
-- We have feelings and emotions that conflict with logic and reason
+> "Culture is the social behavior and norms found in human societies."
 
 ---
 
@@ -56,12 +70,17 @@ About building software ... are you ever really doing it alone?
 
 ---
 
+# Philosophy
+
+> "Philosophy is the study of general and fundamental problems."
+
+---
+
 # DX philosophy
 
 - "I don't know" is first position in every interaction (Socratic)
-  - Zen mind
-  - Empty mind
-  - "I don't know anything therefore I'm open to evertyhing"
+  - Zen mind, empty mind
+    > "I don't know anything therefore I'm open to evertyhing"
 - Empathize before educating
 - Simplest thing that works today
 - Architecture is always JIT (Just In Time)
@@ -69,7 +88,9 @@ About building software ... are you ever really doing it alone?
 
 ---
 
-# Section on what industry provides
+class: center, middle
+
+# Industry practices
 
 ---
 
@@ -94,13 +115,15 @@ About building software ... are you ever really doing it alone?
 
 - Most effective way to trust ... yourself
 - Deliverying everyday is a no consequence decision
-- "show me it works"
-- TDD increases the ability to change later without consequence
+- Immediate feedback loop
+- Increases the ability to change without consequence
   - _consequences will deflate confidence_
 
 ---
 
-# Section on the "Words"
+class: center, middle
+
+# "Words"
 
 ---
 
@@ -158,6 +181,14 @@ Resolve trust issues with this question: _"What's best for the user?"_
 
 ---
 
+class: center, middle
+
+# Honesty Warning
+
+<iframe width="640" height="385" src="https://www.youtube.com/embed/C6BYzLIqKB8" frameborder="0" allow="encrypted-media" allowfullscreen></iframe>
+
+---
+
 # Simplicity
 
 ### Simple rules about simplicity:
@@ -178,9 +209,38 @@ Resolve trust issues with this question: _"What's best for the user?"_
 
 ---
 
+class: center, middle
+
+# Take a moment
+
+---
+
+### Humans are complicated
+
+- We often identify ourselves with our works
+- We have feelings and emotions that conflict with logic and reason
+- Forget that this stuff is really hard
+
+### Software is not real
+
+- Show me where the software is?
+- Do Photoshop devs "own" the users artwork?
+- pulses of electricity ... on/off
+
+---
+
 # Final Thoughts
 
 - Software is never done
 - Nothing lasts forever
 - The 5 words are hard - but the most rewarding part
-- Words have no power. Actions make reality.
+- Words have no power
+- Actions make reality
+
+---
+
+class: center, middle
+
+# We're Hiring!
+
+<iframe width="640" height="385" src="https://www.youtube.com/embed/Hn4T-BsGVV4" frameborder="0" allow="encrypted-media" allowfullscreen></iframe>

@@ -234,7 +234,6 @@ class: center, middle
 - Software is never done
 - Nothing lasts forever
 - The 5 words are hard - but the most rewarding part
-- Words have no power
 - Actions make reality
 
 ---
